@@ -1,0 +1,12 @@
+# 忽略 Python 的缓存文件
+__pycache__/
+*.py[cod]
+*$py.class
+
+# 忽略打包生成的文件夹和配置文件
+build/
+dist/
+*.spec
+
+# 忽略你本地动态生成的封面缓存文件夹 (避免把你听过的歌的封面都传上去)
+covers/

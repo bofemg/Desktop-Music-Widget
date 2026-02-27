@@ -1,0 +1,5 @@
+PyQt6
+requests
+pywin32
+pywinauto
+pyinstaller
